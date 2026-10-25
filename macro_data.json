@@ -6,25 +6,9 @@
    "unit": "% YoY (not seasonally adjusted)",
    "source": "US Bureau of Labor Statistics",
    "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0",
-   "attribution": "Source: U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average, Not Seasonally Adjusted (CPIAUCNS), retrieved from FRED, Federal Reserve Bank of St. Louis (https://fred.stlouisfed.org/series/CPIAUCNS), accessed 2026-10-25.",
-   "retrieved_via": "fred",
+   "attribution": "Source: US Bureau of Labor Statistics (public domain), retrieved via the BLS public API.",
+   "retrieved_via": "bls",
    "points": [
-    [
-     "2024-09-01",
-     2.44
-    ],
-    [
-     "2024-10-01",
-     2.6
-    ],
-    [
-     "2024-11-01",
-     2.75
-    ],
-    [
-     "2024-12-01",
-     2.89
-    ],
     [
      "2025-01-01",
      3.0
@@ -114,8 +98,8 @@
    "unit": "% seasonally adjusted",
    "source": "US Bureau of Labor Statistics",
    "source_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/LNS14000000",
-   "attribution": "Source: U.S. Bureau of Labor Statistics, Unemployment Rate (UNRATE), retrieved from FRED, Federal Reserve Bank of St. Louis (https://fred.stlouisfed.org/series/UNRATE), accessed 2026-10-25.",
-   "retrieved_via": "fred",
+   "attribution": "Source: US Bureau of Labor Statistics (public domain), retrieved via the BLS public API.",
+   "retrieved_via": "bls",
    "points": [
     [
      "2024-09-01",
