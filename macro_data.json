@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "series": {
   "us_cpi_inflation": {
    "name": "US CPI inflation",
@@ -90,7 +90,7 @@
      3.74
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   },
   "us_unemployment": {
@@ -198,7 +198,7 @@
      4.2
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   },
   "sg_cpi_inflation": {
@@ -206,7 +206,7 @@
    "unit": "% YoY",
    "source": "Singapore Department of Statistics (SingStat)",
    "source_url": "https://tablebuilder.singstat.gov.sg/api/table/tabledata/M213781",
-   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-10-27 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-10-28 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
    "retrieved_via": "primary",
    "points": [
     [
@@ -306,7 +306,7 @@
      2.2
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   },
   "sg_real_gdp_growth": {
@@ -314,7 +314,7 @@
    "unit": "% YoY",
    "source": "Singapore Department of Statistics (SingStat)",
    "source_url": "https://tablebuilder.singstat.gov.sg/api/table/tabledata/M015911",
-   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-10-27 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-10-28 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
    "retrieved_via": "primary",
    "points": [
     [
@@ -414,7 +414,7 @@
      5.4
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   },
   "us_treasury_2y": {
@@ -425,10 +425,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-03",
-     4.25
-    ],
     [
      "2026-08-04",
      4.2
@@ -664,9 +660,13 @@
     [
      "2026-10-27",
      4.7
+    ],
+    [
+     "2026-10-28",
+     4.67
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   },
   "us_treasury_10y": {
@@ -677,10 +677,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-03",
-     4.7
-    ],
     [
      "2026-08-04",
      4.63
@@ -916,9 +912,13 @@
     [
      "2026-10-27",
      4.99
+    ],
+    [
+     "2026-10-28",
+     5.05
     ]
    ],
-   "updated": "2026-10-27",
+   "updated": "2026-10-28",
    "status": "ok"
   }
  },
