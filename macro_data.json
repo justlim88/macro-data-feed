@@ -102,10 +102,6 @@
    "retrieved_via": "bls",
    "points": [
     [
-     "2024-09-01",
-     4.1
-    ],
-    [
      "2024-10-01",
      4.1
     ],
@@ -196,6 +192,10 @@
     [
      "2026-09-01",
      4.2
+    ],
+    [
+     "2026-10-01",
+     4.1
     ]
    ],
    "updated": "2026-11-06",
@@ -425,10 +425,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-12",
-     4.2
-    ],
     [
      "2026-08-13",
      4.15
@@ -664,6 +660,10 @@
     [
      "2026-11-05",
      4.46
+    ],
+    [
+     "2026-11-06",
+     4.51
     ]
    ],
    "updated": "2026-11-06",
@@ -677,10 +677,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-12",
-     4.68
-    ],
     [
      "2026-08-13",
      4.63
@@ -916,6 +912,10 @@
     [
      "2026-11-05",
      4.84
+    ],
+    [
+     "2026-11-06",
+     4.86
     ]
    ],
    "updated": "2026-11-06",
