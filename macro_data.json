@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "series": {
   "us_cpi_inflation": {
    "name": "US CPI inflation",
@@ -90,7 +90,7 @@
      3.74
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-14",
    "status": "ok"
   },
   "us_unemployment": {
@@ -198,7 +198,7 @@
      4.1
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-14",
    "status": "ok"
   },
   "sg_cpi_inflation": {
@@ -425,10 +425,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-18",
-     4.19
-    ],
     [
      "2026-08-19",
      4.19
@@ -664,9 +660,13 @@
     [
      "2026-11-12",
      4.86
+    ],
+    [
+     "2026-11-13",
+     4.88
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-14",
    "status": "ok"
   },
   "us_treasury_10y": {
@@ -677,10 +677,6 @@
    "attribution": "Source: US Department of the Treasury, Daily Treasury Par Yield Curve Rates (US government public data).",
    "retrieved_via": "primary",
    "points": [
-    [
-     "2026-08-18",
-     4.71
-    ],
     [
      "2026-08-19",
      4.65
@@ -916,12 +912,19 @@
     [
      "2026-11-12",
      5.1
+    ],
+    [
+     "2026-11-13",
+     5.15
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-14",
    "status": "ok"
   }
  },
- "failures": {},
+ "failures": {
+  "sg_cpi_inflation": "SingStat unavailable; kept previous dated values.",
+  "sg_real_gdp_growth": "SingStat unavailable; kept previous dated values."
+ },
  "note": "Public macro series only. Each series carries its own source, dates and last-successful update date. Failed refreshes keep previous dated values and are listed in failures; no values are estimated."
 }
