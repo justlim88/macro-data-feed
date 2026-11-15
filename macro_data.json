@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "series": {
   "us_cpi_inflation": {
    "name": "US CPI inflation",
@@ -90,7 +90,7 @@
      3.74
     ]
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-15",
    "status": "ok"
   },
   "us_unemployment": {
@@ -198,7 +198,7 @@
      4.1
     ]
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-15",
    "status": "ok"
   },
   "sg_cpi_inflation": {
@@ -206,7 +206,7 @@
    "unit": "% YoY",
    "source": "Singapore Department of Statistics (SingStat)",
    "source_url": "https://tablebuilder.singstat.gov.sg/api/table/tabledata/M213781",
-   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-11-13 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-11-15 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
    "retrieved_via": "primary",
    "points": [
     [
@@ -306,7 +306,7 @@
      2.2
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-15",
    "status": "ok"
   },
   "sg_real_gdp_growth": {
@@ -314,7 +314,7 @@
    "unit": "% YoY",
    "source": "Singapore Department of Statistics (SingStat)",
    "source_url": "https://tablebuilder.singstat.gov.sg/api/table/tabledata/M015911",
-   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-11-13 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+   "attribution": "Contains information from SingStat Table Builder (Singapore Department of Statistics) accessed on 2026-11-15 which is made available under the terms of the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
    "retrieved_via": "primary",
    "points": [
     [
@@ -414,7 +414,7 @@
      5.4
     ]
    ],
-   "updated": "2026-11-13",
+   "updated": "2026-11-15",
    "status": "ok"
   },
   "us_treasury_2y": {
@@ -666,7 +666,7 @@
      4.88
     ]
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-15",
    "status": "ok"
   },
   "us_treasury_10y": {
@@ -918,13 +918,10 @@
      5.15
     ]
    ],
-   "updated": "2026-11-14",
+   "updated": "2026-11-15",
    "status": "ok"
   }
  },
- "failures": {
-  "sg_cpi_inflation": "SingStat unavailable; kept previous dated values.",
-  "sg_real_gdp_growth": "SingStat unavailable; kept previous dated values."
- },
+ "failures": {},
  "note": "Public macro series only. Each series carries its own source, dates and last-successful update date. Failed refreshes keep previous dated values and are listed in failures; no values are estimated."
 }
